@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "AWS_REGION",
+      "type": "java.lang.String",
+      "description": "Description for AWS_REGION."
+  }
+] }

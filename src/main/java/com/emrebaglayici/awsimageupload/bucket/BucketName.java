@@ -1,7 +1,7 @@
 package com.emrebaglayici.awsimageupload.bucket;
 
 public enum BucketName {
-    PROFILE_IMAGE("emrebaglayici-image-upload");
+    PROFILE_IMAGE("your bucket name");
     private final String bucketName;
 
     BucketName(String bucketName) {
